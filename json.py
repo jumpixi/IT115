@@ -10,8 +10,8 @@ data = {
 }
 
 # Writing data to a JSON file
-with open{'data.json', 'w'} as json_files:
+with open('data.json', 'w') as json_file:
 
-    json.dump(data, json, indent=4)
+    json.dump(data, json_file, indent=4)
     
-    #Im making a change 
+    #Im making a change to my file to prove that I just saved something
