@@ -1,0 +1,12 @@
+{
+    "name": "Conker Fur",
+    "age": 100,
+    "city": "Twycross, UK",
+    "interests": [
+        "Having a good day",
+        "Talking",
+        "Binge",
+        "They let me do what I want because my talent is that great"
+    ],
+    "is_student": true
+}
